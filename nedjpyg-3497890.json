@@ -1,0 +1,1290 @@
+{
+  "index": {
+    "title": "中国实现算力一体化统筹监测",
+    "owner": "李光地",
+    "updated": "2026-09-18 02:12:50",
+    "locale": "zh-CN"
+  },
+  "sections": [
+    {
+      "title": "基础概念",
+      "slug": "basic",
+      "terms": [
+        {
+          "term": "中国“村钓”开赛 钓友相聚宁夏贺兰竞逐渔乐",
+          "url": "<code> m.818622.po21ker.cn </code>",
+          "weight": 2
+        },
+        {
+          "term": "国内外专家学者齐聚广州 共话羽毛球足球运动科学",
+          "url": "<code> m.78438.po22ker.cn </code>",
+          "weight": 52
+        },
+        {
+          "term": "Anthropic首席执行官发表公开信 呼吁放慢AI模型的发展速度",
+          "url": "<code> m.724188.po23ker.cn </code>",
+          "weight": 99
+        },
+        {
+          "term": "向同行“开炮”！梅卡曼德CEO发文称有具身智能企业“攒局” 制造虚假收入",
+          "url": "<code> m.8180.po24ker.cn </code>",
+          "weight": 33
+        },
+        {
+          "term": "美国柴油零售均价创历史新高",
+          "url": "<code> m.050828.po25ker.cn </code>",
+          "weight": 14
+        },
+        {
+          "term": "连续四年财务造假、一日收两份“预罚单”，*ST卓然或遭强制退市",
+          "url": "<code> m.36721.po26ker.cn </code>",
+          "weight": 5
+        },
+        {
+          "term": "秋燥分两种，很多人都补反了，越补燥感越重！",
+          "url": "<code> m.369215.po27ker.cn </code>",
+          "weight": 17
+        },
+        {
+          "term": "奥佳华：汽车智能座舱按摩舒适系统研发项目已进入专利申请、样机测试、车型适配阶段",
+          "url": "<code> m.4847.po28ker.cn </code>",
+          "weight": 65
+        },
+        {
+          "term": "“中国核桃之乡”云南凤庆核桃丰收 全链条护航产业发展",
+          "url": "<code> m.971151.po29ker.cn </code>",
+          "weight": 96
+        },
+        {
+          "term": "韩媒：朝鲜向朝鲜半岛东部海域发射多枚弹道导弹",
+          "url": "<code> m.4455.po30ker.cn </code>",
+          "weight": 27
+        },
+        {
+          "term": "《2026粤港澳大湾区青年歌会》播出 金志文等众歌手唱响湾区",
+          "url": "<code> m.986729.po31ker.cn </code>",
+          "weight": 2
+        },
+        {
+          "term": "SK集团会长崔泰源呼吁努力构建AI可持续商业模式",
+          "url": "<code> m.2103.po32ker.cn </code>",
+          "weight": 77
+        },
+        {
+          "term": "加油时一个举动导致终身伤残 很多人有这个误区",
+          "url": "<code> m.513369.po33ker.cn </code>",
+          "weight": 51
+        },
+        {
+          "term": "广西合浦中秋国庆非遗系列活动启幕 168斤的大月饼免费吃",
+          "url": "<code> m.4183.po34ker.cn </code>",
+          "weight": 22
+        },
+        {
+          "term": "小七龄童在故乡浙江绍兴离世 享年84岁",
+          "url": "<code> m.41093.po35ker.cn </code>",
+          "weight": 62
+        },
+        {
+          "term": "星宇股份再现多处错误，至今未回应！",
+          "url": "<code> m.9689.po36ker.cn </code>",
+          "weight": 66
+        },
+        {
+          "term": "中吉乌专家在“丝路重镇”兰州探AI赋能中亚教育",
+          "url": "<code> m.0584.po37ker.cn </code>",
+          "weight": 81
+        },
+        {
+          "term": "AI拉动覆铜板需求 上市公司加速高端产能布局",
+          "url": "<code> m.36322.po38ker.cn </code>",
+          "weight": 1
+        },
+        {
+          "term": "智谱约50亿美元融资落定 加码下一代GLM基础模型、完全自训练及算力基建",
+          "url": "<code> m.4370.po39ker.cn </code>",
+          "weight": 73
+        },
+        {
+          "term": "2026巴黎设计周中国创新馆开馆仪式举行",
+          "url": "<code> m.8006.po40ker.cn </code>",
+          "weight": 93
+        },
+        {
+          "term": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+          "url": "<code> m.1486.po41ker.cn </code>",
+          "weight": 93
+        },
+        {
+          "term": "马来西亚琼籍歌手朱主爱海南开唱：开启文化寻根之旅",
+          "url": "<code> m.1640.po42ker.cn </code>",
+          "weight": 90
+        },
+        {
+          "term": "1900亿GPU龙头下周解禁，股价较高点已跌超50%",
+          "url": "<code> m.7132.po43ker.cn </code>",
+          "weight": 34
+        },
+        {
+          "term": "闽派文艺精品系列漆艺展在福州启幕",
+          "url": "<code> m.968040.po44ker.cn </code>",
+          "weight": 77
+        },
+        {
+          "term": "日本津轻海峡附近发生4.5级地震",
+          "url": "<code> m.097663.po45ker.cn </code>",
+          "weight": 10
+        },
+        {
+          "term": "【讲习所·中国与世界】习近平：把金砖打造成推动全球治理变革的先锋力量",
+          "url": "<code> m.7558.po46ker.cn </code>",
+          "weight": 99
+        },
+        {
+          "term": "据报道 沙特阿拉伯输油管道周四遭袭击",
+          "url": "<code> m.0642.po47ker.cn </code>",
+          "weight": 99
+        },
+        {
+          "term": "突然，直线大跳水！美伊，局势突变！国际油价，大跌",
+          "url": "<code> m.595917.po48ker.cn </code>",
+          "weight": 50
+        },
+        {
+          "term": "氯酸钠商品报价动态（2026-09-12）",
+          "url": "<code> m.056740.po49ker.cn </code>",
+          "weight": 100
+        },
+        {
+          "term": "国家安全部党委书记、部长陈一新在《中国网信》杂志发表署名文章",
+          "url": "<code> m.02489.po50ker.cn </code>",
+          "weight": 4
+        },
+        {
+          "term": "环球一周展望：加息潮在G7蔓延 市场聚焦美联储主席沃什",
+          "url": "<code> www.mcnb.hhpo1ker.org.cn </code>",
+          "weight": 50
+        },
+        {
+          "term": "史上最大IPO，英伟达正在洽谈投资100亿美元",
+          "url": "<code> www.wcjc.hhpo2ker.org.cn </code>",
+          "weight": 4
+        },
+        {
+          "term": "IPO或被人为操纵，拨康视云暂停交易",
+          "url": "<code> www.kwnu.hhpo3ker.org.cn </code>",
+          "weight": 98
+        },
+        {
+          "term": "麦当劳中国亮相服贸会 发布5项线下消费成果案例",
+          "url": "<code> www.hiam.hhpo4ker.org.cn </code>",
+          "weight": 81
+        },
+        {
+          "term": "澜起科技获UBS Group AG增持32.96万股 每股作价约276.97港元",
+          "url": "<code> www.gynnc.hhpo5ker.org.cn </code>",
+          "weight": 1
+        },
+        {
+          "term": "2026中国（北京）国际精品陶瓷展览会新闻发布会举办",
+          "url": "<code> www.yxmyo.hhpo6ker.org.cn </code>",
+          "weight": 69
+        },
+        {
+          "term": "霹雳舞3V3混合团体世锦赛首金成都诞生 中国选手包揽冠亚军",
+          "url": "<code> www.rjys.hhpo7ker.org.cn </code>",
+          "weight": 91
+        },
+        {
+          "term": "二乙醇单异丙醇胺85%商品报价动态（2026-09-12）",
+          "url": "<code> www.vvczs.hhpo8ker.org.cn </code>",
+          "weight": 24
+        },
+        {
+          "term": "跨越国界的烟火气：印度小伙在华实现“美味”职业新生涯",
+          "url": "<code> www.cdnb.hhpo9ker.org.cn </code>",
+          "weight": 46
+        },
+        {
+          "term": "碳酸锂期货盘中跌近10% 锂盐企业直言“没看懂”！供需因素发生了什么变化？",
+          "url": "<code> www.sdslaj.hhpo10ker.org.cn </code>",
+          "weight": 90
+        },
+        {
+          "term": "波音向工程师工会提交最终提案 包含10%加薪",
+          "url": "<code> www.lvqqvq.hhpo11ker.org.cn </code>",
+          "weight": 54
+        },
+        {
+          "term": "乌克兰估算年内基础设施损失接近100亿美元，港口受阻拖累经济",
+          "url": "<code> www.vplbtk.hhpo12ker.org.cn </code>",
+          "weight": 47
+        },
+        {
+          "term": "天地一体跨域智算网工程启动",
+          "url": "<code> www.lxbcmv.hhpo13ker.org.cn </code>",
+          "weight": 90
+        },
+        {
+          "term": "2026中国风险投资论坛在南京举办",
+          "url": "<code> www.hpewds.hhpo14ker.org.cn </code>",
+          "weight": 50
+        },
+        {
+          "term": "辞去两家上市药企董事长职务 “太太口服液”创始人朱保国退休",
+          "url": "<code> www.pxbd.hhpo15ker.org.cn </code>",
+          "weight": 49
+        },
+        {
+          "term": "河南公布一批粉尘涉爆举报案例 多家企业在危险场所内设办公室",
+          "url": "<code> www.xcobfb.hhpo16ker.org.cn </code>",
+          "weight": 17
+        },
+        {
+          "term": "“桂BA”总决赛在桂林落幕",
+          "url": "<code> www.qqbsbj.hhpo17ker.org.cn </code>",
+          "weight": 4
+        },
+        {
+          "term": "华侨大学开学 迎逾万名海内外新生",
+          "url": "<code> www.svoqgx.hhpo18ker.org.cn </code>",
+          "weight": 27
+        },
+        {
+          "term": "AI加速赋能浙江宁波制造业 业界推出“陪跑”计划",
+          "url": "<code> www.jppac.hhpo19ker.org.cn </code>",
+          "weight": 54
+        },
+        {
+          "term": "纽约汇市：美元持稳 此前美国CPI公布后一度触及日内高点",
+          "url": "<code> www.eogy.hhpo20ker.org.cn </code>",
+          "weight": 75
+        }
+      ]
+    },
+    {
+      "title": "进阶用法",
+      "slug": "advanced",
+      "terms": [
+        {
+          "term": "舞剧《傲雪长白》在北京上演 重现抗联风骨",
+          "url": "<code> www.ogauo.hhpo21ker.org.cn </code>",
+          "weight": 17
+        },
+        {
+          "term": "Citrini创始人出售公司并筹划新基金 此前其报告曾震动市场",
+          "url": "<code> www.fcgkf.hhpo22ker.org.cn </code>",
+          "weight": 64
+        },
+        {
+          "term": "（经济观察）多点开花齐提速 中国服务出海动力足",
+          "url": "<code> www.gvuss.hhpo23ker.org.cn </code>",
+          "weight": 100
+        },
+        {
+          "term": "“太太口服液”创始人辞任两家上市公司董事长",
+          "url": "<code> www.mfhbsw.hhpo24ker.org.cn </code>",
+          "weight": 2
+        },
+        {
+          "term": "香港管弦乐团携大熊猫新作亮相成都 开启新乐季巡演",
+          "url": "<code> www.lwfn.hhpo25ker.org.cn </code>",
+          "weight": 95
+        },
+        {
+          "term": "高盛：美联储加息预期的再次上升可能引发交易商对冲头寸的解除 从而导致黄金价格出现比往常更为剧烈的调整",
+          "url": "<code> www.khac.hhpo26ker.org.cn </code>",
+          "weight": 65
+        },
+        {
+          "term": "全球能源格局重构、竞争规则换剧本，中企出海该怎么接招？",
+          "url": "<code> www.qhfzc.hhpo27ker.org.cn </code>",
+          "weight": 26
+        },
+        {
+          "term": "中国将于2027年接任金砖主席国",
+          "url": "<code> www.rkpw.hhpo28ker.org.cn </code>",
+          "weight": 100
+        },
+        {
+          "term": "银轮股份：公司无逾期对外担保、无涉及诉讼的对外担保及因担保被判决败诉而应承担损失的情形",
+          "url": "<code> www.nygxk.hhpo29ker.org.cn </code>",
+          "weight": 42
+        },
+        {
+          "term": "国家数据局：适时推动具身智能数据标准建设 积极支持企业加大数据投入",
+          "url": "<code> www.azlba.hhpo30ker.org.cn </code>",
+          "weight": 5
+        },
+        {
+          "term": "香港特区政府强烈反对外部势力污蔑抹黑法庭就“支联会”案的判刑",
+          "url": "<code> www.skscxh.hhpo31ker.org.cn </code>",
+          "weight": 29
+        },
+        {
+          "term": "中国桨板精英联赛（西安站）收官 助力水上运动西北内陆生根",
+          "url": "<code> www.xqdlc.hhpo32ker.org.cn </code>",
+          "weight": 94
+        },
+        {
+          "term": "银河通用：网传公司及管理团队相关内容均属不实信息 已报案",
+          "url": "<code> www.cgur.hhpo33ker.org.cn </code>",
+          "weight": 70
+        },
+        {
+          "term": "乙酰丙酮铝商品报价动态（2026-09-13）",
+          "url": "<code> www.pluzv.hhpo34ker.org.cn </code>",
+          "weight": 16
+        },
+        {
+          "term": "“魔豆”长成大树 促更多困境女性从“救助”到“赋能”",
+          "url": "<code> www.wkwfe.hhpo35ker.org.cn </code>",
+          "weight": 76
+        },
+        {
+          "term": "沙特阿拉伯在多次遭袭后关闭东西向原油管道",
+          "url": "<code> www.lgiazm.hhpo36ker.org.cn </code>",
+          "weight": 23
+        },
+        {
+          "term": "“炒股”回本！爆仓漫画家苦熬18年 他做对了什么？",
+          "url": "<code> www.ouqo.hhpo37ker.org.cn </code>",
+          "weight": 35
+        },
+        {
+          "term": "（长征胜利90周年）检查公益诉讼守护绿色生态与红色根脉 四川宝兴探索特色保护路径",
+          "url": "<code> www.eziuoj.hhpo38ker.org.cn </code>",
+          "weight": 91
+        },
+        {
+          "term": "美国8月份预算赤字1668亿美元",
+          "url": "<code> www.kppgot.hhpo39ker.org.cn </code>",
+          "weight": 83
+        },
+        {
+          "term": "国缘2026“挥拍中国”羽毛球公开赛长三角赛区-扬州站开赛",
+          "url": "<code> www.bpnmx.hhpo40ker.org.cn </code>",
+          "weight": 10
+        },
+        {
+          "term": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位",
+          "url": "<code> www.xktat.hhpo41ker.org.cn </code>",
+          "weight": 76
+        },
+        {
+          "term": "公职人员醉驾致夫妻身亡，事故主次责认定引质疑 警方已启动复核",
+          "url": "<code> www.vnnl.hhpo42ker.org.cn </code>",
+          "weight": 36
+        },
+        {
+          "term": "警惕“躺赚”陷阱！征信良好的普通人为何沦为“职业背债人”",
+          "url": "<code> www.zkoo.hhpo43ker.org.cn </code>",
+          "weight": 94
+        },
+        {
+          "term": "信息披露新规实施两周 私募基金体感如何",
+          "url": "<code> www.ocsi.hhpo44ker.org.cn </code>",
+          "weight": 80
+        },
+        {
+          "term": "金砖国家领导人第十八次会晤新德里宣言（摘要）",
+          "url": "<code> www.zvzckf.hhpo45ker.org.cn </code>",
+          "weight": 30
+        },
+        {
+          "term": "视频|星宇股份又出错，近期已道歉4次 股价下跌！上交所发函！网友:真是一个神奇的草台班子",
+          "url": "<code> www.xetr.hhpo46ker.org.cn </code>",
+          "weight": 67
+        },
+        {
+          "term": "流鼻血时要仰头？别再用这些“急救方法” 严重可能致命",
+          "url": "<code> www.hqthfg.hhpo47ker.org.cn </code>",
+          "weight": 52
+        },
+        {
+          "term": "“中泰人文交流国际学术研讨会”举行",
+          "url": "<code> www.xtruo.hhpo48ker.org.cn </code>",
+          "weight": 4
+        },
+        {
+          "term": "延安红色半程马拉松中秋小长假开跑 红色文创及景区惠民政策发布",
+          "url": "<code> www.tzck.hhpo49ker.org.cn </code>",
+          "weight": 47
+        },
+        {
+          "term": "多图读懂金砖力量：中国智慧助推开放包容的合作新机遇",
+          "url": "<code> www.vtho.hhpo50ker.org.cn </code>",
+          "weight": 46
+        },
+        {
+          "term": "险资借道私募基金加码投资战略性新兴产业",
+          "url": "<code> www.njhv.po1ker.cn </code>",
+          "weight": 36
+        },
+        {
+          "term": "日本防卫大臣再妄称不排除拥有核动力潜艇，日媒：该言论践踏日本“无核三原则”",
+          "url": "<code> www.marmc.po2ker.cn </code>",
+          "weight": 6
+        },
+        {
+          "term": "香港警察跆拳道会成立50周年 粤港澳选手在港竞技",
+          "url": "<code> www.eplk.po3ker.cn </code>",
+          "weight": 80
+        },
+        {
+          "term": "美加关税战再度升级双方互征报复性关税",
+          "url": "<code> www.izuohu.po4ker.cn </code>",
+          "weight": 11
+        },
+        {
+          "term": "全球航标业者浙江温州感触古今“中外交流”",
+          "url": "<code> www.vvof.po5ker.cn </code>",
+          "weight": 83
+        },
+        {
+          "term": "贵州酒商加速转型破圈 年轻化赛道激活酒业新消费",
+          "url": "<code> www.bfzzb.po6ker.cn </code>",
+          "weight": 12
+        },
+        {
+          "term": "上海科技成果转化系列贷款产品发布",
+          "url": "<code> www.prxye.po7ker.cn </code>",
+          "weight": 55
+        },
+        {
+          "term": "从赛场走向市场 南京新消费环境促“商文旅农融合”提速",
+          "url": "<code> www.xznb.po8ker.cn </code>",
+          "weight": 85
+        },
+        {
+          "term": "菜百股份：公司将于9月21日召开2026年半年度业绩说明会",
+          "url": "<code> www.diukcw.po9ker.cn </code>",
+          "weight": 97
+        },
+        {
+          "term": "京津冀智算供需清单发布 三地将加快构建环京算力供给走廊",
+          "url": "<code> www.nfio.po10ker.cn </code>",
+          "weight": 47
+        },
+        {
+          "term": "天龙三号官宣“归零” 天兵科技：行业机会窗口仍在 不会为保成功降低火箭性能",
+          "url": "<code> www.fjkbw.po11ker.cn </code>",
+          "weight": 53
+        },
+        {
+          "term": "新大众文艺，如何走进“猜你喜欢”",
+          "url": "<code> www.irld.po12ker.cn </code>",
+          "weight": 18
+        },
+        {
+          "term": "我国词元需求呈现爆发式增长 预计2026年消耗量将达到10亿亿",
+          "url": "<code> www.nwml.po13ker.cn </code>",
+          "weight": 91
+        },
+        {
+          "term": "世界最大盐穴压缩空气储能项目机组启动",
+          "url": "<code> www.pnoo.po14ker.cn </code>",
+          "weight": 85
+        },
+        {
+          "term": "光模块全球第5，年入83亿，海信第6个IPO来了",
+          "url": "<code> www.umyevh.po15ker.cn </code>",
+          "weight": 36
+        },
+        {
+          "term": "“疆煤入冀”哈密煤炭万吨首发专列运抵唐山港",
+          "url": "<code> www.ssje.po16ker.cn </code>",
+          "weight": 95
+        },
+        {
+          "term": "贵州梵净山：秋景如画卷",
+          "url": "<code> www.ttdr.po17ker.cn </code>",
+          "weight": 33
+        },
+        {
+          "term": "NBA球星斯蒂芬·库里到访广东东莞助阵粤BA全明星赛",
+          "url": "<code> www.bhac.po18ker.cn </code>",
+          "weight": 74
+        },
+        {
+          "term": "突传利空！刚刚，集体下跌！事关AI",
+          "url": "<code> www.dovjpq.po19ker.cn </code>",
+          "weight": 1
+        },
+        {
+          "term": "（活力中国）联结与互鉴：河南殷墟博物馆探索国际交流新空间",
+          "url": "<code> www.ztypow.po20ker.cn </code>",
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "title": "工具与命令",
+      "slug": "tools",
+      "terms": [
+        {
+          "term": "霍元甲孙女归国寻根 冀精武精神走向全球",
+          "url": "<code> www.ehvdt.po21ker.cn </code>",
+          "weight": 6
+        },
+        {
+          "term": "多项技术需求在浦江创新论坛发布 揭榜资金规模达6240万元",
+          "url": "<code> www.bqltn.po22ker.cn </code>",
+          "weight": 2
+        },
+        {
+          "term": "锡林浩特城市那达慕：民俗进城市，文化融邻里",
+          "url": "<code> www.umeatg.po23ker.cn </code>",
+          "weight": 99
+        },
+        {
+          "term": "白凡士林商品报价动态（2026-09-12）",
+          "url": "<code> www.iquq.po24ker.cn </code>",
+          "weight": 98
+        },
+        {
+          "term": "（近观中国）在新德里，习近平与金砖国家领导人共同种下新绿",
+          "url": "<code> www.kayri.po25ker.cn </code>",
+          "weight": 91
+        },
+        {
+          "term": "河南公布首批2026年治理制售假劣肉制品问题典型案例",
+          "url": "<code> www.irbm.po26ker.cn </code>",
+          "weight": 48
+        },
+        {
+          "term": "港澳青年代表参访团走进新疆喀什",
+          "url": "<code> www.dnys.po27ker.cn </code>",
+          "weight": 43
+        },
+        {
+          "term": "（经济观察）西部地区发力向新 地方服贸“各显神通”",
+          "url": "<code> www.kmzp.po28ker.cn </code>",
+          "weight": 45
+        },
+        {
+          "term": "视频|星宇股份年报数据离谱失真 2024年报财务外包费用2.44万亿 超营收183倍",
+          "url": "<code> www.houhif.po29ker.cn </code>",
+          "weight": 31
+        },
+        {
+          "term": "南庚戌：中企赴博茨瓦纳投资要做好长期发展的准备",
+          "url": "<code> www.mcirls.po30ker.cn </code>",
+          "weight": 32
+        },
+        {
+          "term": "浦江创新论坛开幕 5年12.5亿元资金池支持基础研究",
+          "url": "<code> www.cwhae.po31ker.cn </code>",
+          "weight": 45
+        },
+        {
+          "term": "南北共链“芯”动沈阳 第二届北方芯谷生态伙伴大会启幕",
+          "url": "<code> www.tvkv.po32ker.cn </code>",
+          "weight": 90
+        },
+        {
+          "term": "“圈养雪豹博流量” ？ 救护中心用科普回应谣言",
+          "url": "<code> www.nnoi.po33ker.cn </code>",
+          "weight": 64
+        },
+        {
+          "term": "乙酸商品报价动态（2026-09-12）",
+          "url": "<code> www.wyrl.po34ker.cn </code>",
+          "weight": 16
+        },
+        {
+          "term": "丹山碧水遇轰鸣 户外机车嘉年华燃动江西龙虎山",
+          "url": "<code> www.zezlvr.po35ker.cn </code>",
+          "weight": 94
+        },
+        {
+          "term": "第48届世界技能大赛将在上海启幕 创多项历届之最",
+          "url": "<code> www.gbiz.po36ker.cn </code>",
+          "weight": 96
+        },
+        {
+          "term": "福特因燃油箱问题在美国召回约22.35万辆汽车",
+          "url": "<code> www.rmqo.po37ker.cn </code>",
+          "weight": 3
+        },
+        {
+          "term": "习近平将出席金砖国家领导人迎接仪式",
+          "url": "<code> www.zsjes.po38ker.cn </code>",
+          "weight": 28
+        },
+        {
+          "term": "梅洛尼预计意大利今年经济增长1%，与欧元区增速持平",
+          "url": "<code> www.ivpvo.po39ker.cn </code>",
+          "weight": 76
+        },
+        {
+          "term": "“5天3板”PCB牛股紧急澄清：未给英伟达供货！    年内股价涨逾50%",
+          "url": "<code> www.cjqsn.po40ker.cn </code>",
+          "weight": 4
+        },
+        {
+          "term": "北京6G空天地一体实验室正式发布",
+          "url": "<code> www.rajm.po41ker.cn </code>",
+          "weight": 14
+        },
+        {
+          "term": "特朗普又将创造历史？白宫据悉考虑用《国防生产法》扩大炼油能力",
+          "url": "<code> www.cgpoe.po42ker.cn </code>",
+          "weight": 87
+        },
+        {
+          "term": "胡塞武装接连拿下政府军战略要地 已控制也门整个西部海岸",
+          "url": "<code> www.ulrl.po43ker.cn </code>",
+          "weight": 49
+        },
+        {
+          "term": "华为全新三折叠开售秒空！二手市场溢价数千元 优购码被倒卖",
+          "url": "<code> www.ywgjep.po44ker.cn </code>",
+          "weight": 98
+        },
+        {
+          "term": "【艺评】乐坛新人去哪儿了？",
+          "url": "<code> www.wemq.po45ker.cn </code>",
+          "weight": 54
+        },
+        {
+          "term": "名创优品于9月11日斥资约1685.77万港元回购94.9万股",
+          "url": "<code> www.scpma.po46ker.cn </code>",
+          "weight": 5
+        },
+        {
+          "term": "“AI毁灭人类”警报拉响！万亿算力资本裹挟下 OpenAI和Anthropic不敢停 “AI对齐”之父：超级智能可能在2027年出现 当下是监管黄金窗口",
+          "url": "<code> www.lxphqc.po47ker.cn </code>",
+          "weight": 19
+        },
+        {
+          "term": "“产能预警调控”首入汽车五年规划，产能治理要动真格了吗？",
+          "url": "<code> www.kruujk.po48ker.cn </code>",
+          "weight": 12
+        },
+        {
+          "term": "天下为公 翰墨同心：纪念孙中山先生诞辰160周年两岸书画家笔会在京举行",
+          "url": "<code> www.nmctr.po49ker.cn </code>",
+          "weight": 30
+        },
+        {
+          "term": "见证历史！首家2万亿代销巨头诞生",
+          "url": "<code> www.seaark.po50ker.cn </code>",
+          "weight": 79
+        },
+        {
+          "term": "机器人出货1.5万台 智元老板招兵买马",
+          "url": "<code> www.7588.hhpo1ker.org.cn </code>",
+          "weight": 64
+        },
+        {
+          "term": "上海银行中报：利润增长缓慢，规模扩张赚的钱都去哪了？",
+          "url": "<code> www.919343.hhpo2ker.org.cn </code>",
+          "weight": 83
+        },
+        {
+          "term": "恺英网络间接参股娱美德",
+          "url": "<code> www.58760.hhpo3ker.org.cn </code>",
+          "weight": 13
+        },
+        {
+          "term": "人形机器人，降价潮来了",
+          "url": "<code> www.5409.hhpo4ker.org.cn </code>",
+          "weight": 37
+        },
+        {
+          "term": "张雪：期待中国用5年至10年培养出自己的摩托车世界冠军",
+          "url": "<code> www.11253.hhpo5ker.org.cn </code>",
+          "weight": 26
+        },
+        {
+          "term": "全球产业格局生变 中国企业高质量出海迎接新机遇",
+          "url": "<code> www.5496.hhpo6ker.org.cn </code>",
+          "weight": 56
+        },
+        {
+          "term": "机构力挺光模块 龙头强势涨停！13只绩优潜力股曝光",
+          "url": "<code> www.979921.hhpo7ker.org.cn </code>",
+          "weight": 23
+        },
+        {
+          "term": "普京称欧洲军队入乌等于同俄开战",
+          "url": "<code> www.8113.hhpo8ker.org.cn </code>",
+          "weight": 43
+        },
+        {
+          "term": "让书“找到”人：大学图书馆如何破圈",
+          "url": "<code> www.792946.hhpo9ker.org.cn </code>",
+          "weight": 99
+        },
+        {
+          "term": "2026年中国科研类航空航天模型普及大赛（七台河站）开幕",
+          "url": "<code> www.99975.hhpo10ker.org.cn </code>",
+          "weight": 32
+        },
+        {
+          "term": "“抱着金饭碗要饭”？485年中药老字号广誉远，被投资者当面质问！公司股价已连跌5年，市值蒸发100亿元",
+          "url": "<code> www.26080.hhpo11ker.org.cn </code>",
+          "weight": 99
+        },
+        {
+          "term": "（活力中国调研行）探访河南安阳无人机产业园",
+          "url": "<code> www.738924.hhpo12ker.org.cn </code>",
+          "weight": 35
+        },
+        {
+          "term": "高校购商品房当学生宿舍：空调、洗衣机齐全，双人间一年1320元",
+          "url": "<code> www.7043.hhpo13ker.org.cn </code>",
+          "weight": 54
+        },
+        {
+          "term": "异物卡喉、心搏骤停如何急救？这些要点请牢记",
+          "url": "<code> www.235770.hhpo14ker.org.cn </code>",
+          "weight": 5
+        },
+        {
+          "term": "旅美大熊猫“青宝”迎来五周岁生日",
+          "url": "<code> www.9072.hhpo15ker.org.cn </code>",
+          "weight": 71
+        },
+        {
+          "term": "沈鼓集团：首次公开发行股票并在主板上市",
+          "url": "<code> www.18849.hhpo16ker.org.cn </code>",
+          "weight": 56
+        },
+        {
+          "term": "“太太口服液”创始人朱保国，一天辞去两家上市药企董事长职位",
+          "url": "<code> www.1248.hhpo17ker.org.cn </code>",
+          "weight": 30
+        },
+        {
+          "term": "资本大佬陈发树要减持雷电微力，对应市值超2亿元",
+          "url": "<code> www.80986.hhpo18ker.org.cn </code>",
+          "weight": 25
+        },
+        {
+          "term": "税期叠加政府债缴款扰动，央行隔夜逆回购常态化操作稳定资金面",
+          "url": "<code> www.68924.hhpo19ker.org.cn </code>",
+          "weight": 26
+        },
+        {
+          "term": "甲骨文重组计划成本上限增至28亿美元 将进一步推进AI应用",
+          "url": "<code> www.48980.hhpo20ker.org.cn </code>",
+          "weight": 77
+        }
+      ]
+    },
+    {
+      "title": "参考手册",
+      "slug": "reference",
+      "terms": [
+        {
+          "term": "现代汽车将自研驾驶辅助系统推迟至2029年，过渡期采用英伟达方案",
+          "url": "<code> www.97659.hhpo21ker.org.cn </code>",
+          "weight": 88
+        },
+        {
+          "term": "报道：摩根大通在Situational Awareness亏损后终止放贷关系",
+          "url": "<code> www.1145.hhpo22ker.org.cn </code>",
+          "weight": 95
+        },
+        {
+          "term": "儒竞科技：每10股派0.5元，股权登记日为9月17日",
+          "url": "<code> www.90622.hhpo23ker.org.cn </code>",
+          "weight": 57
+        },
+        {
+          "term": "11块巨型“积木”精准拼装 狮子洋通道迎新进展",
+          "url": "<code> www.0101.hhpo24ker.org.cn </code>",
+          "weight": 13
+        },
+        {
+          "term": "通胀时代怎么办？痴迷AI的华尔街坚定不移",
+          "url": "<code> www.94293.hhpo25ker.org.cn </code>",
+          "weight": 83
+        },
+        {
+          "term": "中超联赛：武汉三镇主场平河南俱乐部彩陶坊",
+          "url": "<code> www.0677.hhpo26ker.org.cn </code>",
+          "weight": 50
+        },
+        {
+          "term": "甲骨文暗盘拉升，董事长取消股票出售计划",
+          "url": "<code> www.5576.hhpo27ker.org.cn </code>",
+          "weight": 31
+        },
+        {
+          "term": "内蒙古呼和浩特：探秘和林格尔新区智能算力中心",
+          "url": "<code> www.1634.hhpo28ker.org.cn </code>",
+          "weight": 59
+        },
+        {
+          "term": "半年融资超去年1.7倍 AI有没有泡沫？投资人：5年后超90%资本投向AI",
+          "url": "<code> www.64696.hhpo29ker.org.cn </code>",
+          "weight": 98
+        },
+        {
+          "term": "佩斯科夫：俄美乌或在近期举行三方会晤",
+          "url": "<code> www.9393.hhpo30ker.org.cn </code>",
+          "weight": 95
+        },
+        {
+          "term": "广州举行2026年穗港澳三地青少年暑期实践活动成果展示",
+          "url": "<code> www.51808.hhpo31ker.org.cn </code>",
+          "weight": 38
+        },
+        {
+          "term": "黑龙江大学中共党史党建研究院揭牌",
+          "url": "<code> www.668934.hhpo32ker.org.cn </code>",
+          "weight": 44
+        },
+        {
+          "term": "官方通报菏泽古沉船考古疑似文物遗失：已组建联合调查组",
+          "url": "<code> www.4386.hhpo33ker.org.cn </code>",
+          "weight": 76
+        },
+        {
+          "term": "美国能源部长淡化霍尔木兹海峡问题取得突破的可能性",
+          "url": "<code> www.9204.hhpo34ker.org.cn </code>",
+          "weight": 47
+        },
+        {
+          "term": "全国科普月推出欢乐科学周 130余家机构同步开展科普惠民行动",
+          "url": "<code> www.8278.hhpo35ker.org.cn </code>",
+          "weight": 27
+        },
+        {
+          "term": "伊朗总统佩泽希齐扬表示 伊朗“目前无法做出”与美国进行直接谈判的决定 美国必须停止封锁",
+          "url": "<code> www.09222.hhpo36ker.org.cn </code>",
+          "weight": 21
+        },
+        {
+          "term": "山西公安公布6起涉嫌新型黑恶违法犯罪典型案例 31人落网",
+          "url": "<code> www.30522.hhpo37ker.org.cn </code>",
+          "weight": 86
+        },
+        {
+          "term": "2026中国—东盟（南宁）城市媒体圆桌会举办",
+          "url": "<code> www.388721.hhpo38ker.org.cn </code>",
+          "weight": 17
+        },
+        {
+          "term": "“红通人员”曾能贵被引渡回国",
+          "url": "<code> www.43987.hhpo39ker.org.cn </code>",
+          "weight": 50
+        },
+        {
+          "term": "熵旋芯智雷坤：MRAM存算一体芯片可使AI推理Token成本降低约10倍",
+          "url": "<code> www.1803.hhpo40ker.org.cn </code>",
+          "weight": 57
+        },
+        {
+          "term": "9月12日外盘头条：沙特关闭东西向原油管道 美联储下周加息几成定局 对冲基金已大幅削减日元空头仓位",
+          "url": "<code> www.39060.hhpo41ker.org.cn </code>",
+          "weight": 90
+        },
+        {
+          "term": "“麦积山雕塑论坛·2026”探索构建中国雕塑自主知识体系",
+          "url": "<code> www.60215.hhpo42ker.org.cn </code>",
+          "weight": 58
+        },
+        {
+          "term": "VinFast创始人交棒其子 推进业务扩张",
+          "url": "<code> www.9294.hhpo43ker.org.cn </code>",
+          "weight": 12
+        },
+        {
+          "term": "阿尔特曼称OpenAI不会在2026年上市",
+          "url": "<code> www.2472.hhpo44ker.org.cn </code>",
+          "weight": 88
+        },
+        {
+          "term": "特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车",
+          "url": "<code> www.6381.hhpo45ker.org.cn </code>",
+          "weight": 81
+        },
+        {
+          "term": "哔哩哔哩-W获UBS Group AG增持约759.24万股 每股作价约116.51港元",
+          "url": "<code> www.1781.hhpo46ker.org.cn </code>",
+          "weight": 56
+        },
+        {
+          "term": "安全性能位居全球第一梯队！华龙一号2.0版创新成果亮相",
+          "url": "<code> www.2869.hhpo47ker.org.cn </code>",
+          "weight": 56
+        },
+        {
+          "term": "国家防总针对海南启动防汛四级应急响应",
+          "url": "<code> www.85654.hhpo48ker.org.cn </code>",
+          "weight": 5
+        },
+        {
+          "term": "陕西：300余名骑手巡游嵯峨山 机车音乐嘉年华促农文旅深度融合",
+          "url": "<code> www.94990.hhpo49ker.org.cn </code>",
+          "weight": 38
+        },
+        {
+          "term": "光子产业生态大会举行 专家建言技术跨越从实验室到生产线",
+          "url": "<code> www.797364.hhpo50ker.org.cn </code>",
+          "weight": 55
+        },
+        {
+          "term": "美国8月CPI同比上涨3.4%",
+          "url": "<code> www.4699.po1ker.cn </code>",
+          "weight": 64
+        },
+        {
+          "term": "航行警告：黄海北部部分海域执行军事任务",
+          "url": "<code> www.474905.po2ker.cn </code>",
+          "weight": 87
+        },
+        {
+          "term": "1-羟基-2-萘甲酸商品报价动态（2026-09-12）",
+          "url": "<code> www.3394.po3ker.cn </code>",
+          "weight": 97
+        },
+        {
+          "term": "华储网：9月16日中央储备冻猪肉轮换出库挂牌国产冻猪肉12900吨",
+          "url": "<code> www.196999.po4ker.cn </code>",
+          "weight": 52
+        },
+        {
+          "term": "美股资金出逃创年内新高！美联储加息箭在弦上，市场怎么走？",
+          "url": "<code> www.672759.po5ker.cn </code>",
+          "weight": 51
+        },
+        {
+          "term": "SpaceX在纳斯达克100指数中的权重将获上调",
+          "url": "<code> www.0510.po6ker.cn </code>",
+          "weight": 25
+        },
+        {
+          "term": "深交所终止安徽久易农业股份有限公司创业板IPO审核",
+          "url": "<code> www.28877.po7ker.cn </code>",
+          "weight": 68
+        },
+        {
+          "term": "学习新语｜推动金砖大船行稳致远",
+          "url": "<code> www.68453.po8ker.cn </code>",
+          "weight": 100
+        },
+        {
+          "term": "麦芽糊精商品报价动态（2026-09-13）",
+          "url": "<code> www.7927.po9ker.cn </code>",
+          "weight": 67
+        },
+        {
+          "term": "浙江新能：2026年半年度权益分派实施公告",
+          "url": "<code> www.99232.po10ker.cn </code>",
+          "weight": 2
+        },
+        {
+          "term": "AI赋能新赛道 激活产业新动能",
+          "url": "<code> www.0125.po11ker.cn </code>",
+          "weight": 3
+        },
+        {
+          "term": "苹果表示 自太平洋时间9月12日早上5点起 客户可以在苹果官网和苹果商店应用上预订iPhone 18 Pro和iPhone 18 Pro Max",
+          "url": "<code> www.05023.po12ker.cn </code>",
+          "weight": 71
+        },
+        {
+          "term": "直击光博会！芯片、光引擎、设备密集上新",
+          "url": "<code> www.48551.po13ker.cn </code>",
+          "weight": 71
+        },
+        {
+          "term": "高盛：新鸿基地产目标价下调至169港元 重申“买入”评级",
+          "url": "<code> www.4049.po14ker.cn </code>",
+          "weight": 94
+        },
+        {
+          "term": "从贸易通道到民生市场 金砖合作在南非落地见效",
+          "url": "<code> www.2107.po15ker.cn </code>",
+          "weight": 5
+        },
+        {
+          "term": "中国选手包揽2026年WDSF世界霹雳舞3V3混合团体锦标赛冠亚军",
+          "url": "<code> www.758980.po16ker.cn </code>",
+          "weight": 34
+        },
+        {
+          "term": "2025年度世界一流科技期刊目录发布",
+          "url": "<code> www.852697.po17ker.cn </code>",
+          "weight": 33
+        },
+        {
+          "term": "国家认监委责令中汽认证中心有限公司停业整顿1个月",
+          "url": "<code> www.556812.po18ker.cn </code>",
+          "weight": 73
+        },
+        {
+          "term": "美军中央司令部：过去60天已引导100艘船只改变航线",
+          "url": "<code> www.433487.po19ker.cn </code>",
+          "weight": 57
+        },
+        {
+          "term": "欧洲央行行长拉加德：当前价格冲击持续时间将更久",
+          "url": "<code> www.7963.po20ker.cn </code>",
+          "weight": 32
+        }
+      ]
+    },
+    {
+      "title": "常见案例",
+      "slug": "cases",
+      "terms": [
+        {
+          "term": "“苏超”八强之争进入白热化 南京主场力克镇江",
+          "url": "<code> www.0586.po21ker.cn </code>",
+          "weight": 87
+        },
+        {
+          "term": "加息25个基点？美联储，重磅来袭！",
+          "url": "<code> www.03135.po22ker.cn </code>",
+          "weight": 3
+        },
+        {
+          "term": "中国田协10公里精英赛首落陕西永寿 文体旅融合激活县域发展动能",
+          "url": "<code> www.30523.po23ker.cn </code>",
+          "weight": 8
+        },
+        {
+          "term": "服贸会期间多项法商服务成果在北京发布",
+          "url": "<code> www.0487.po24ker.cn </code>",
+          "weight": 77
+        },
+        {
+          "term": "厦门大学政治学科创建百年：聚力构建中国政治学自主知识体系",
+          "url": "<code> www.70566.po25ker.cn </code>",
+          "weight": 17
+        },
+        {
+          "term": "第十八届湖南茶业博览会启幕 打造茶文化消费嘉年华",
+          "url": "<code> www.7135.po26ker.cn </code>",
+          "weight": 62
+        },
+        {
+          "term": "CCL龙头公司金安国纪澄清：未与英伟达、华为接触",
+          "url": "<code> www.7355.po27ker.cn </code>",
+          "weight": 28
+        },
+        {
+          "term": "下一个中际旭创！业绩狂飙，产品极紧缺，确定性受益的AI基建龙头",
+          "url": "<code> www.7514.po28ker.cn </code>",
+          "weight": 77
+        },
+        {
+          "term": "台湾人士：青年乐于走进大陆、看见真实、讲述所见",
+          "url": "<code> www.9005.po29ker.cn </code>",
+          "weight": 51
+        },
+        {
+          "term": "闪迪：签署15亿美元循环信贷额度修订协议 2031年到期",
+          "url": "<code> www.15296.po30ker.cn </code>",
+          "weight": 6
+        },
+        {
+          "term": "壹视界·心相知｜习主席“典”亮金砖合作",
+          "url": "<code> www.0911.po31ker.cn </code>",
+          "weight": 66
+        },
+        {
+          "term": "中东局势持续紧张 有报道称“华盛顿号”航母处于高度戒备状态",
+          "url": "<code> www.86855.po32ker.cn </code>",
+          "weight": 86
+        },
+        {
+          "term": "钢铁周 | 钢铁高质量发展与管理创新论坛邀您相聚上海！",
+          "url": "<code> www.9574.po33ker.cn </code>",
+          "weight": 34
+        },
+        {
+          "term": "第十八届湖南茶博会推动两岸茶产业资源互通",
+          "url": "<code> www.4007.po34ker.cn </code>",
+          "weight": 15
+        },
+        {
+          "term": "英国朴茨茅斯现两阵营对峙示威",
+          "url": "<code> www.727706.po35ker.cn </code>",
+          "weight": 27
+        },
+        {
+          "term": "印度在市场强烈反对后拟全面改革股票收盘竞价机制",
+          "url": "<code> www.6268.po36ker.cn </code>",
+          "weight": 62
+        },
+        {
+          "term": "印尼失联客轮确认倾覆 百余人仍下落不明",
+          "url": "<code> www.866628.po37ker.cn </code>",
+          "weight": 35
+        },
+        {
+          "term": "海南强降雨致岛内部分市县道路交通管制、学校停课",
+          "url": "<code> www.30365.po38ker.cn </code>",
+          "weight": 95
+        },
+        {
+          "term": "暴雨红色预警 海南陵水发布校外培训机构停课通知",
+          "url": "<code> www.63794.po39ker.cn </code>",
+          "weight": 67
+        },
+        {
+          "term": "福建连江：“海洋牧场”五彩斑斓 场面壮观",
+          "url": "<code> www.27108.po40ker.cn </code>",
+          "weight": 89
+        },
+        {
+          "term": "涉足控制器芯片！605303，筹划重大资产重组",
+          "url": "<code> www.0269.po41ker.cn </code>",
+          "weight": 37
+        },
+        {
+          "term": "“男子称停止资助遭女生威胁”事件反转，姚某某已涉嫌寻衅滋事罪丨法律顾问在身边",
+          "url": "<code> www.1181.po42ker.cn </code>",
+          "weight": 21
+        },
+        {
+          "term": "新华图讯丨习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+          "url": "<code> www.0508.po43ker.cn </code>",
+          "weight": 11
+        },
+        {
+          "term": "吉利银河TT正式上市：全系标配激光雷达硬件，上市先享价12.99万元起",
+          "url": "<code> www.5860.po44ker.cn </code>",
+          "weight": 69
+        },
+        {
+          "term": "光模块，利好！机构力挺，龙头强势涨停！13只绩优潜力股曝光",
+          "url": "<code> www.477951.po45ker.cn </code>",
+          "weight": 14
+        },
+        {
+          "term": "三菱日联预计美联储本月加息25基点 10月将按兵不动",
+          "url": "<code> www.863579.po46ker.cn </code>",
+          "weight": 80
+        },
+        {
+          "term": "第一观察｜习近平主席倡导金砖国家共担时代责任",
+          "url": "<code> www.3980.po47ker.cn </code>",
+          "weight": 81
+        },
+        {
+          "term": "A股震荡分化，外资眼中的“黄金坑”在哪？",
+          "url": "<code> www.899739.po48ker.cn </code>",
+          "weight": 75
+        },
+        {
+          "term": "9月12日美股成交前20：甲骨文涨超8%后转跌 AI数据中心建设支出利好 戴尔大涨近12%",
+          "url": "<code> www.3659.po49ker.cn </code>",
+          "weight": 77
+        },
+        {
+          "term": "算力服务加速涌现 成为今年服贸会亮点",
+          "url": "<code> www.628486.po50ker.cn </code>",
+          "weight": 98
+        },
+        {
+          "term": "3万名中外跑者竞速“哈马” 埃塞俄比亚选手夺男子全马冠军",
+          "url": "<code> 81652.hhpo1ker.org.cn </code>",
+          "weight": 88
+        },
+        {
+          "term": "从单机突围到集群拓局 上合示范区小农机耕拓印度大市场",
+          "url": "<code> 85317.hhpo2ker.org.cn </code>",
+          "weight": 30
+        },
+        {
+          "term": "美国公布印度、印尼和老挝太阳能产品反倾销及反补贴终裁",
+          "url": "<code> 739962.hhpo3ker.org.cn </code>",
+          "weight": 72
+        },
+        {
+          "term": "OPPO沈嘉谈6G：智能体将成网络主力用户 速率不再是最强标签",
+          "url": "<code> 082923.hhpo4ker.org.cn </code>",
+          "weight": 15
+        },
+        {
+          "term": "皮鞋产量十年缩水超六成 传统鞋企多维度探索破局",
+          "url": "<code> 69286.hhpo5ker.org.cn </code>",
+          "weight": 89
+        },
+        {
+          "term": "中国将对塞舌尔实施100%税目产品零关税",
+          "url": "<code> 76981.hhpo6ker.org.cn </code>",
+          "weight": 76
+        },
+        {
+          "term": "招商局中国基金遭王效钉减持8万股 每股作价25.13港元",
+          "url": "<code> 8203.hhpo7ker.org.cn </code>",
+          "weight": 41
+        },
+        {
+          "term": "中国银行启动“一网三融”算力金融生态共建行动",
+          "url": "<code> 24665.hhpo8ker.org.cn </code>",
+          "weight": 47
+        },
+        {
+          "term": "全国算力“一张网、一盘棋、一体化”发展格局基本形成",
+          "url": "<code> 958125.hhpo9ker.org.cn </code>",
+          "weight": 41
+        },
+        {
+          "term": "直播海报：国务院政策例行吹风会：加强中小企业回款难问题治理有关工作情况",
+          "url": "<code> 1006.hhpo10ker.org.cn </code>",
+          "weight": 27
+        },
+        {
+          "term": "韩总统李在明：汽油、柴油等精炼油价格将持续稳定",
+          "url": "<code> 379934.hhpo11ker.org.cn </code>",
+          "weight": 56
+        },
+        {
+          "term": "中国水产养殖创新实践亮相联合国粮农组织渔委会",
+          "url": "<code> 3132.hhpo12ker.org.cn </code>",
+          "weight": 40
+        },
+        {
+          "term": "习近平出席金砖国家领导人第十八次会晤第二阶段会议",
+          "url": "<code> 294532.hhpo13ker.org.cn </code>",
+          "weight": 41
+        },
+        {
+          "term": "中国算力基础设施与人工智能服务能力加快走向东盟",
+          "url": "<code> 11011.hhpo14ker.org.cn </code>",
+          "weight": 36
+        },
+        {
+          "term": "纳斯达克中国金龙指数收涨0.4%",
+          "url": "<code> 89083.hhpo15ker.org.cn </code>",
+          "weight": 89
+        },
+        {
+          "term": "翱捷科技冲刺港股：上半年营收24.5亿 阿里减持 一年时间套现超17亿",
+          "url": "<code> 547428.hhpo16ker.org.cn </code>",
+          "weight": 67
+        },
+        {
+          "term": "重庆渝富控股集团原董事长谢文辉被查，曾掌舵这家万亿级农商行",
+          "url": "<code> 2982.hhpo17ker.org.cn </code>",
+          "weight": 71
+        },
+        {
+          "term": "印尼失联客轮事故位置确认 海浪超2米给救援带来困难",
+          "url": "<code> 63542.hhpo18ker.org.cn </code>",
+          "weight": 31
+        },
+        {
+          "term": "中老“和平列车-2026”联合演习展开全流程演练",
+          "url": "<code> 02254.hhpo19ker.org.cn </code>",
+          "weight": 68
+        },
+        {
+          "term": "质量督察首次启动 揭开“三无”灯具与建材监管盲区",
+          "url": "<code> 82602.hhpo20ker.org.cn </code>",
+          "weight": 24
+        }
+      ]
+    }
+  ]
+}
