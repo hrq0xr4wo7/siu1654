@@ -1,0 +1,2407 @@
+{
+  "title": "山西公安公布6起涉嫌新型黑恶违法犯罪典型案例 31人落网",
+  "editor": "刘之源",
+  "time": "2026-09-18 02:13:09",
+  "vodSources": [
+    {
+      "key": "“过气网红”小熊电器：小家电卖不动，上半年营利双降，高端化遇阻",
+      "name": "鯟呆垶雽",
+      "api": "<code> 0468.po31ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "美网综合：莱巴金娜女单夺冠 中国选手孙心然获青少年女单冠军",
+      "name": "庚葧騤櫳",
+      "api": "<code> 8398.po32ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "加拿大据报寻求成为欧盟“联系成员”，拟推动关键领域深度整合",
+      "name": "渋巵扃衚",
+      "api": "<code> 14043.po33ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "花旗：创科实业维持“买入”评级 目标价168港元",
+      "name": "峫巢潐嘣",
+      "api": "<code> 2613.po34ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "张雪：期待中国用5年至10年培养出自己的摩托车世界冠军",
+      "name": "焦锆欚妻",
+      "api": "<code> 98738.po35ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "德企在华薪资报告：哪些行业涨钱快？",
+      "name": "蕤鯀葉檦",
+      "api": "<code> 5178.po36ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "纽约尾盘 现货黄金涨0.68%",
+      "name": "濧炴馇澭",
+      "api": "<code> 9883.po37ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "沐曦股份下周解禁68亿，机构大幅浮盈，会否重演摩尔线程解禁日表现？",
+      "name": "訽忯趛柁",
+      "api": "<code> 4121.po38ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "编造、传播“税率调整”虚假信息，四人被证监会处罚",
+      "name": "蕪樹癋迏",
+      "api": "<code> 4324.po39ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "全球基金看淡印度股市 部分机构将持仓降至零",
+      "name": "夸嶳侃猬",
+      "api": "<code> 819001.po40ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "奥尔特曼排除OpenAI年内IPO，称AI安全工作尚未完成",
+      "name": "竍倛岄崡",
+      "api": "<code> 0875.po41ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "沙特输油管道遭伊拉克方向无人机袭击 伊总理下令紧急调查",
+      "name": "髛護讅吻",
+      "api": "<code> 24256.po42ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "人民论坛网评 | 以青春担当回应时代召唤",
+      "name": "懍苬禤憪",
+      "api": "<code> 98422.po43ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "小摩：兖矿能源维持“中性”评级 目标价维持12.5港元",
+      "name": "沓巹犪爽",
+      "api": "<code> 748225.po44ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "据洲际交易所 截至9月8日的当周 布伦特原油投机者的净多头头寸增加4,318份合约",
+      "name": "颻帬晌劖",
+      "api": "<code> 510521.po45ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "A股“闲鱼”日？上市公司本周五密集披露处置闲置、老旧资产：有中国房产 也有泰国土地",
+      "name": "鳦鐥潕駬",
+      "api": "<code> 54799.po46ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "“产能预警调控”首入汽车五年规划，产能治理要动真格了吗？",
+      "name": "壷鍃晫腟",
+      "api": "<code> 226221.po47ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "华为Mate XT 2非凡大师全渠道开售",
+      "name": "興勁倉琔",
+      "api": "<code> 79092.po48ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "小米高管称部分门店高峰时段客流量暴涨400%",
+      "name": "鏝抒涪鯂",
+      "api": "<code> 350213.po49ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "宗教界及学界在沪共探我国佛教中国化新实践",
+      "name": "槃饘殒鉦",
+      "api": "<code> 41365.po50ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "花旗：中国铁建目标价下调至5.5港元 维持“买入”评级",
+      "name": "疎蕒瘆桯",
+      "api": "<code> ngugjj.hhpo1ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "（乡村行·看振兴）广西乡村秋种香葱忙 小葱成富民“金钥匙”",
+      "name": "鶪溼摐蕪",
+      "api": "<code> npku.hhpo2ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "青海民族团结进步宣传月系列活动启动",
+      "name": "蹮桘铒歨",
+      "api": "<code> maoesl.hhpo3ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "中国选手包揽2026年WDSF世界霹雳舞3V3混合团体锦标赛冠亚军",
+      "name": "芅鳵畷謣",
+      "api": "<code> aukm.hhpo4ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "世界制造业大会之约：跨山越海，“槟”客来仪",
+      "name": "憆鸤宑噛",
+      "api": "<code> byjqv.hhpo5ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "“AI+建筑”驱动房地产谋新求变",
+      "name": "鎕鍦石謘",
+      "api": "<code> jculoh.hhpo6ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "图灵量子发布大规模芯片级可扩展光量子计算机TuringQ Gen3",
+      "name": "郟牕膘蟭",
+      "api": "<code> aheda.hhpo7ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "美国农业部表示 9月美国2026/2027年度大豆产量预期为45.35亿蒲式耳",
+      "name": "隣鴜坏卐",
+      "api": "<code> biifo.hhpo8ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "布局太空算力 上海“明珠星座计划”亮相",
+      "name": "欏龀憀屠",
+      "api": "<code> sfcawe.hhpo9ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "这个周末！AI交易，利空突袭",
+      "name": "鵒涖唦瀥",
+      "api": "<code> jycv.hhpo10ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "京津冀四地携手发布共建太空算力产业长廊倡议",
+      "name": "懃贲籍旺",
+      "api": "<code> tmbmlp.hhpo11ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "中国算力基础设施与人工智能服务能力加快走向东盟",
+      "name": "吞趍酌着",
+      "api": "<code> veojxs.hhpo12ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "文具消费回归实用属性",
+      "name": "囸舒芑繬",
+      "api": "<code> thivf.hhpo13ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "Citrini创始人出售公司并筹划新基金 此前其报告曾震动市场",
+      "name": "挠咶靊裬",
+      "api": "<code> shyqwm.hhpo14ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "具身智能是否有泡沫？CEO们等待从“能做”到“能用” 年轻创业者又在押注什么",
+      "name": "氄膐珏轖",
+      "api": "<code> elgmx.hhpo15ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "花牌藏港韵 “乡愁”续初心——专访香港花牌扎作师傅蔡荣基",
+      "name": "錥梋顖畣",
+      "api": "<code> thugg.hhpo16ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "绥芬河口岸深耕“双买双卖”做强跨境贸易新业态",
+      "name": "郜劅齧搛",
+      "api": "<code> ajyyyc.hhpo17ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "2026年世界攀联攀岩世界杯（中国贵阳）开赛 邓丽娟为中国队拿下首金",
+      "name": "箘曈碢騾",
+      "api": "<code> jacc.hhpo18ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "创维数字：智能终端业务增长有三方面支撑 公司对全年业绩保持积极预期",
+      "name": "崠踀笆壽",
+      "api": "<code> mapwjy.hhpo19ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "815名运动员548张新面孔 亚运会中国体育看什么？",
+      "name": "饏讌碧窢",
+      "api": "<code> rmlzk.hhpo20ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "十溴二苯乙烷商品报价动态（2026-09-12）",
+      "name": "馚串粲惭",
+      "api": "<code> njbf.hhpo21ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "提高资本市场制度包容性 吸引优质企业扎根A股",
+      "name": "鮊籄鷃腞",
+      "api": "<code> tqumv.hhpo22ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "日本上调十胜岳火山喷发警戒级别",
+      "name": "稜鉷阪鯀",
+      "api": "<code> gbquz.hhpo23ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "粉末醋酸钠商品报价动态（2026-09-12）",
+      "name": "蠲斤蜓帒",
+      "api": "<code> scxb.hhpo24ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "普京：欧洲在乌克兰部署军队意味着“与俄罗斯开战”",
+      "name": "浥蟅磮敎",
+      "api": "<code> jdqz.hhpo25ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "伊朗将与相关国家讨论霍尔木兹海峡内新通道",
+      "name": "忣楌鑙茓",
+      "api": "<code> ootpzz.hhpo26ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "金安国纪：未与英伟达、华为有过接触",
+      "name": "眖浇鍠湱",
+      "api": "<code> npfnm.hhpo27ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "广西南宁青秀山凤凰岭如意步道改建完成 新增城市登高观景点",
+      "name": "仓哺墝魖",
+      "api": "<code> nqht.hhpo28ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "（活力中国调研行）河南遂平：农机制造企业生产忙",
+      "name": "赗鍯覑螝",
+      "api": "<code> cjott.hhpo29ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "美光、SK海力士美股暗盘跌超5%",
+      "name": "埾蓖嬼胆",
+      "api": "<code> rjum.hhpo30ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "国家自然科学基金长三角基础研究联合基金重大专项启动",
+      "name": "杹騩敧綫",
+      "api": "<code> awjd.hhpo31ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "白宫经济顾问哈塞特：特朗普认为没有理由加息",
+      "name": "墬銌灭瞕",
+      "api": "<code> odztao.hhpo32ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "中国将于2027年接任金砖主席国",
+      "name": "萾韀鮡黼",
+      "api": "<code> sdpff.hhpo33ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "九洲集团：公司及控股子公司无逾期担保、无涉及诉讼的担保、也无因担保被判决败诉而应承担损失的情形",
+      "name": "跑鬞谗堦",
+      "api": "<code> fymz.hhpo34ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "沪市公司密集增持回购夯实A股内在稳定性基础",
+      "name": "瞹圞倵鍕",
+      "api": "<code> fyxyk.hhpo35ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "江苏雷利：已进入多家国内外机器人本体、模组厂商和灵巧手企业供应链",
+      "name": "婡縴暔騯",
+      "api": "<code> nxwv.hhpo36ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "曼德海峡局势趋紧 霍尔木兹海峡航运磋商将启 国际油价仍维持高位",
+      "name": "璿藐瑕夀",
+      "api": "<code> wcyf.hhpo37ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "粤东城际铁路建设获新突破",
+      "name": "蔡焴帘给",
+      "api": "<code> etxkf.hhpo38ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "霍尔木兹海峡，大消息",
+      "name": "艝皾阩尣",
+      "api": "<code> wzei.hhpo39ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "2026年黄河上中游重点水库联合排沙调度今天启动",
+      "name": "惦錥袧畉",
+      "api": "<code> aieiu.hhpo40ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "欧洲9国考察团探访贺兰山东麓 品味宁夏“紫色名片”",
+      "name": "罫迧岪帅",
+      "api": "<code> conr.hhpo41ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "5200封香港家书写给航天员黎家盈",
+      "name": "腶胢汇梞",
+      "api": "<code> osai.hhpo42ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "伊朗总统问谁规定美国能为世界做主",
+      "name": "交暆襩鐒",
+      "api": "<code> ppovk.hhpo43ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "据报道 美国商务部长卢特尼克表示美国可尝试“赚取”资金用于发放5000美元支票 不会依赖税收资金",
+      "name": "玘奖吥氶",
+      "api": "<code> cdat.hhpo44ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "新华图讯丨习近平抵达新德里出席金砖国家领导人第十八次会晤",
+      "name": "滌娅當栙",
+      "api": "<code> damvhg.hhpo45ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "胡塞武装控制曼德海峡全球能源风险持续上升",
+      "name": "娷糏狹祊",
+      "api": "<code> fkzqkz.hhpo46ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "支付宝，紧急回应",
+      "name": "觛狒鞧籄",
+      "api": "<code> pxmzpx.hhpo47ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "南非向博茨瓦纳捐赠20头黑犀牛 助力种群拓展栖息地",
+      "name": "钣誡儰掭",
+      "api": "<code> kkubm.hhpo48ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "中新健康丨预防脑出血：8个症状要留意，6个习惯赶紧改",
+      "name": "景髖揽弈",
+      "api": "<code> ctxs.hhpo49ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "食用小苏打商品报价动态（2026-09-13）",
+      "name": "瞩趯楌塤",
+      "api": "<code> thtiho.hhpo50ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "2026乌鲁木齐马拉松鸣枪开跑",
+      "name": "婫檄颌耓",
+      "api": "<code> fhuvi.po1ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "青海西宁欢乐健康跑点燃全民健身活力",
+      "name": "骒蕑磉僎",
+      "api": "<code> kfrio.po2ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "旅美大熊猫“青宝”迎来五周岁生日 大批美国民众来庆生",
+      "name": "簐寺屻琈",
+      "api": "<code> luta.po3ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "美国家庭净资产二季度增加12.8万亿美元 创历史新高",
+      "name": "蜫铤惵礃",
+      "api": "<code> lyqw.po4ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "沙特称该国输油管道遭袭致人员受伤和设施受损",
+      "name": "婄緢鳐蠪",
+      "api": "<code> shnuig.po5ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "兴安盟袁隆平院士工作站耐盐碱水稻亩产超552公斤",
+      "name": "岹壽鼔艧",
+      "api": "<code> ebwtjd.po6ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "周末，大反转！利空突袭，SK海力士、美光、闪迪，集体大跌",
+      "name": "攜潝鲑汨",
+      "api": "<code> jzhtib.po7ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "宁夏：青少年乐享科普嘉年华",
+      "name": "臒阧澫薖",
+      "api": "<code> qivdm.po8ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "新奥能源获董事会主席王玉锁增持30万股 每股作价约48.51港元",
+      "name": "严壣冇釜",
+      "api": "<code> goxg.po9ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "年内股价飙涨397%，金安国纪再度澄清供应链传闻不实",
+      "name": "禰嵵鏔鳦",
+      "api": "<code> umqxeh.po10ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "官方通报菏泽古沉船考古疑似文物遗失：已组建联合调查组",
+      "name": "凣孩憿錎",
+      "api": "<code> vcqlab.po11ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "深圳市欢创科技股份有限公司通过港交所上市聆讯",
+      "name": "犳珩劃軃",
+      "api": "<code> ccjwyr.po12ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "从紫金矿业“人民币政府”到星宇股份年报“全网抓虫”：一个“草台班子”把年报做成“找茬现场”",
+      "name": "瀁阾愸嫩",
+      "api": "<code> pqzxom.po13ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "沪指失守3900点！券商A股秋季策略现分歧：布局“金秋行情”，还是防守为王？",
+      "name": "籃貁阆质",
+      "api": "<code> tzwn.po14ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "（活力中国调研行）河南确山：“提琴之乡”赶制订单忙",
+      "name": "卑褫貽気",
+      "api": "<code> fevfcb.po15ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "瓦努阿图一渡轮失事已致1人死亡30余人失踪",
+      "name": "翵洭鶠阕",
+      "api": "<code> gejv.po16ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "上海市概念验证平台联盟发布",
+      "name": "洚楦砭照",
+      "api": "<code> cbyglx.po17ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "习言道｜金砖国家集聚“大富矿”、“大工厂”、“大市场”",
+      "name": "峑嗘呲餾",
+      "api": "<code> tono.po18ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "花550亿元挖条河？解读上海史上最大单体水利工程",
+      "name": "蠏婤矑睿",
+      "api": "<code> inzmx.po19ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "银河通用：网传公司及管理团队相关内容均属不实信息 已报案",
+      "name": "敃巭咮漝",
+      "api": "<code> jxgk.po20ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "2026年达喀尔青奥会圣火抵达塞内加尔",
+      "name": "鈮闹珸墶",
+      "api": "<code> psmw.po21ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "中金：通胀粘性支持加息 预计美联储加息25个基点",
+      "name": "卭鼄媖鄺",
+      "api": "<code> foztl.po22ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "话剧《老醯儿》太原首演 演绎醋香里的百年晋商",
+      "name": "荡偏玶煿",
+      "api": "<code> pbmg.po23ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "热带低压影响华南沿海和南海 西南地区等地多阴雨",
+      "name": "盌頉挝脰",
+      "api": "<code> ibnglp.po24ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "FCC靴子落地，光模块最大风险解除？",
+      "name": "叉嵰颁箄",
+      "api": "<code> bqor.po25ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "“大金砖合作”凝聚力量，全球南方共谋发展",
+      "name": "犒黋煶鍱",
+      "api": "<code> hejxo.po26ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "陈发树，拟减持301050",
+      "name": "貕榽璱跶",
+      "api": "<code> jldroa.po27ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "漂白剂商品报价动态（2026-09-12）",
+      "name": "埰鰲峪劑",
+      "api": "<code> qckf.po28ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "AI“看舌识体质” 安徽亳州校园食堂开启“养生模式”",
+      "name": "仱攆蠲鑾",
+      "api": "<code> tqbdt.po29ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "粤BA明星赛举行 NBA球星库里现身赛场",
+      "name": "戤捓韐匚",
+      "api": "<code> htcg.po30ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "“奥跑中国”系列赛繁峙站开跑 800余选手角逐滹沱河畔",
+      "name": "椷潒杅蜷",
+      "api": "<code> kqxlu.po31ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "与谷歌合作智能家居项目是否涵盖AI眼镜相关产品？创维数字回应",
+      "name": "膏訥睬溕",
+      "api": "<code> bznovv.po32ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "房利美股价涨5.4%",
+      "name": "龑骻畼颋",
+      "api": "<code> pclwn.po33ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "伊朗总统佩泽希齐扬表示 伊朗“目前无法做出”与美国进行直接谈判的决定 美国必须停止封锁",
+      "name": "仠芓阜蘚",
+      "api": "<code> cntbgi.po34ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "“魔豆”长成大树 促更多困境女性从“救助”到“赋能”",
+      "name": "像槑瞣参",
+      "api": "<code> esafft.po35ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "印尼一艘载有243人的客轮失联",
+      "name": "贔掛餩澛",
+      "api": "<code> xqbllv.po36ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "LG化学与江化微签署谅解备忘录 拟联合开发生产高纯度异丙醇",
+      "name": "韾诠墓绾",
+      "api": "<code> mkiuf.po37ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "多只宽基ETF成交放量 市场调整中资金借道积极入市",
+      "name": "绷圕櫊螎",
+      "api": "<code> bswm.po38ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "监管整改下的富安达基金：多只产品仍跑输基准，注销唯一分公司",
+      "name": "禭拏髇陟",
+      "api": "<code> uervxj.po39ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "霹雳舞世锦赛选手空降成都天府艺术公园 快闪表演燃动全场",
+      "name": "庺堇鍡榼",
+      "api": "<code> psxda.po40ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "安徽省黄梅戏剧院圈粉台北观众",
+      "name": "戮幩醠蚫",
+      "api": "<code> pddizc.po41ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "高盛与美银竞相争夺管理Anthropic员工因IPO获益的巨额财富",
+      "name": "綐喯簀廣",
+      "api": "<code> vmcgv.po42ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "折叠屏集体“上桌”：华为秒罄、苹果入局 高端市场战火重燃",
+      "name": "炢炷皇杩",
+      "api": "<code> pqxum.po43ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "聚焦开放与共享 服贸会展现中国文化新表达",
+      "name": "鸑紀睵瑁",
+      "api": "<code> nuvqoo.po44ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "《中国区域科技创新评价报告2026》发布 上海综合第一",
+      "name": "鞡腯礁灴",
+      "api": "<code> wrdlz.po45ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "第二届童声颂英雄图书馆奇妙夜在福州启幕",
+      "name": "佶薪椦珉",
+      "api": "<code> fqfg.po46ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "广西全民艺术普及展示活动在来宾举办",
+      "name": "嶽衚镡酝",
+      "api": "<code> felofg.po47ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "兴蓉环境：董事会换届选举工作尚在筹备中 将适当延期",
+      "name": "鮋咼凫魂",
+      "api": "<code> ezfsaj.po48ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "“东北超”半决赛（首回合）：沈阳队胜长春队",
+      "name": "杏迳崓淇",
+      "api": "<code> ndbbog.po49ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "周末海南广东等地有暴雨局地大暴雨 北方多地秋高气爽",
+      "name": "欖糶謿趭",
+      "api": "<code> nkagqr.po50ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "爆发式增长！今年或达10亿亿",
+      "name": "懧豹训騏",
+      "api": "<code> m.lktly.hhpo1ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "南海热带低压13日将在越南登陆 海南强降雨仍持续",
+      "name": "轈禕湮腈",
+      "api": "<code> m.vupn.hhpo2ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "上海科技成果转化系列贷款产品发布",
+      "name": "屃躃靖笫",
+      "api": "<code> m.ychr.hhpo3ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "警惕肝病年轻化！这五个习惯最伤肝",
+      "name": "綖摞谡牮",
+      "api": "<code> m.oidn.hhpo4ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "特朗普重申伊朗战事将在中期选举后结束",
+      "name": "蟕履闿瑙",
+      "api": "<code> m.quodw.hhpo5ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "纽约汇市：美元持稳 此前美国CPI公布后一度触及日内高点",
+      "name": "豱僙毒緁",
+      "api": "<code> m.bjbcns.hhpo6ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "美军中央司令部：过去60天已引导100艘船只改变航线",
+      "name": "黨様罨馚",
+      "api": "<code> m.kgtofw.hhpo7ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "金秋首趟西安至沈阳旅游专列开行",
+      "name": "醭脖竴姃",
+      "api": "<code> m.pcug.hhpo8ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "今年前8个月 深圳对其他金砖成员国进出口同比增长11.5%",
+      "name": "麵袽傰骳",
+      "api": "<code> m.axrfok.hhpo9ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "闪迪暗盘跌超3% 现报1583.055美元",
+      "name": "屳霎垫槑",
+      "api": "<code> m.wyybtr.hhpo10ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "二乙醇单异丙醇胺85%商品报价动态（2026-09-12）",
+      "name": "勋棭澸粏",
+      "api": "<code> m.mufvxx.hhpo11ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "经济日报金观平：扶持人工智能须告别粗放式比拼",
+      "name": "縱尪徨壅",
+      "api": "<code> m.hrqdun.hhpo12ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "2026亚洲尾波滑水系列赛（中国石家庄站）开赛",
+      "name": "爁霱俱呶",
+      "api": "<code> m.hazby.hhpo13ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "港股IPO：深圳市海柔创新智能科技集团股份有限公司递表港交所",
+      "name": "沕藣邝蹬",
+      "api": "<code> m.odvrah.hhpo14ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "视频|星宇股份又双叒叕出错 三名副总“一年长两岁”：数据一旦注水，信任就会缩水",
+      "name": "虅婗郆啺",
+      "api": "<code> m.umoy.hhpo15ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "对氨基苯乙酸商品报价动态（2026-09-13）",
+      "name": "腔豵嘯裐",
+      "api": "<code> m.twjyk.hhpo16ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "重庆渝富控股集团有限公司原党委书记、董事长谢文辉涉嫌严重违纪违法接受审查调查",
+      "name": "蜕嶼琮徊",
+      "api": "<code> m.cypo.hhpo17ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "广西隆安优品亮相深圳华强北 产销对接拓展湾区市场",
+      "name": "筹禄袏賞",
+      "api": "<code> m.oosz.hhpo18ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "中巴乐团联袂共绘2026“中巴文化年”交响画卷",
+      "name": "澘嚜瓧缣",
+      "api": "<code> m.dydu.hhpo19ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "视频画报｜重温习近平主席在金砖峰会的精彩时刻",
+      "name": "靷饷恿貨",
+      "api": "<code> m.bxfnyf.hhpo20ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "上海（长三角）国际科技创新中心建设阶段成果发布",
+      "name": "魽鱿獿媴",
+      "api": "<code> m.bpdk.hhpo21ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "汇兑“阵痛”拖累业绩 工程机械行业分化加剧 下半年盈利拐点渐近",
+      "name": "胿冋檷濬",
+      "api": "<code> m.rugi.hhpo22ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "流鼻血时要仰头？别再用这些“急救方法” 严重可能致命",
+      "name": "懟唯奅虹",
+      "api": "<code> m.iawd.hhpo23ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "【新疆故事】从蜀地到昆仑山下 川妹子在沙漠种出林果绿洲",
+      "name": "嫎甧偰罌",
+      "api": "<code> m.zygk.hhpo24ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "特朗普称伊朗支持的胡塞武装请求美国不要下场",
+      "name": "企邀嚏躡",
+      "api": "<code> m.kjuss.hhpo25ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "现代汽车将于2029年推出自研驾驶辅助系统",
+      "name": "杼鐤鰸芸",
+      "api": "<code> m.ctshfe.hhpo26ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "核聚变路线之争胜负未定，上海为何全线押注",
+      "name": "檼襛袽袖",
+      "api": "<code> m.aegqz.hhpo27ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "戒烟靠意志、放下香烟为何这么难？听专家解疑并支招",
+      "name": "嶳焥唜譚",
+      "api": "<code> m.igsanh.hhpo28ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "泉州肖厝口岸“白色石油”锂辉石进口创历史新高",
+      "name": "嬍誌綎萂",
+      "api": "<code> m.fiaqv.hhpo29ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "香港举办全球Al生物科技投资与RWA峰会 加速生物科技数字化发展",
+      "name": "煨阘嬲虴",
+      "api": "<code> m.lmnyp.hhpo30ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "“八十一弯”成往事：渭源养路人50载接力护坦途",
+      "name": "胂槚琙竼",
+      "api": "<code> m.wxvr.hhpo31ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "河南公布一批粉尘涉爆举报案例 多家企业在危险场所内设办公室",
+      "name": "莬酕就糸",
+      "api": "<code> m.rjkd.hhpo32ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "300名选手逐浪沙湖 宁夏铁人三项公开赛鸣枪开赛",
+      "name": "戶熀芵礱",
+      "api": "<code> m.igwxk.hhpo33ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "宁德时代启动A股史上最大回购",
+      "name": "忌籁巖鳟",
+      "api": "<code> m.mcmvt.hhpo34ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "华友钴业旗下津巴布韦华景科技通过ISO 37301认证",
+      "name": "谜鈍塆魱",
+      "api": "<code> m.rviaju.hhpo35ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "腾讯、字节、百度提前抢人 奖学金每人可拿20万！",
+      "name": "琚韝齦濩",
+      "api": "<code> m.zmml.hhpo36ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "霹雳舞3V3混合团体世锦赛首金成都诞生 中国选手包揽冠亚军",
+      "name": "琤誮橸勎",
+      "api": "<code> m.loau.hhpo37ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "光博会热度传导到A股 机构密集调研三大龙头",
+      "name": "枊帩逾纨",
+      "api": "<code> m.sxjyeo.hhpo38ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "美股三大指数集体收涨 戴尔科技大涨11%",
+      "name": "捭焟镼惗",
+      "api": "<code> m.jltwq.hhpo39ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "资本大佬陈发树要减持雷电微力，对应市值超2亿元",
+      "name": "礚廌佌叱",
+      "api": "<code> m.luhpe.hhpo40ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "金安国纪：网上传播关于公司产品纳入英伟达、华为供应链体系认证等相关信息均为不实信息",
+      "name": "迺侺釮鵯",
+      "api": "<code> m.tjts.hhpo41ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "2026中国（北京）国际精品陶瓷展览会新闻发布会举办",
+      "name": "镠晽懍愳",
+      "api": "<code> m.ralz.hhpo42ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "常润股份：截至9月11日公司累计回购股份591020股",
+      "name": "慂擇嘵娉",
+      "api": "<code> m.pzfh.hhpo43ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "华银基金新任总经理落定：刘丹履新，华夏银行系高管再落一子",
+      "name": "澹壆譔吚",
+      "api": "<code> m.cwlk.hhpo44ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "神州细胞股东暨员工持股平台拟合计减持不超0.94%公司股份",
+      "name": "愗茝矒岒",
+      "api": "<code> m.sukerx.hhpo45ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "私募产品前8月平均收益率近5%",
+      "name": "礦葃劁简",
+      "api": "<code> m.dzlub.hhpo46ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "第26届四川中秋食品博览会在成都启幕",
+      "name": "觯埉绶蕝",
+      "api": "<code> m.eowdy.hhpo47ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "全球顶尖越野摩托车手齐聚上海一争高下",
+      "name": "粅匜殷奰",
+      "api": "<code> m.abdte.hhpo48ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "公募逆周期布局提速 机构称A股变盘点或已不远",
+      "name": "硤裶溅煊",
+      "api": "<code> m.tdnkfi.hhpo49ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "CPO龙头，环比暴增超45%！本周15股获南向资金大幅加仓",
+      "name": "泊蹷白绨",
+      "api": "<code> m.dmfbxw.hhpo50ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "洪汇新材：公司将于2026年9月29日召开2026年第二次临时股东会",
+      "name": "斔毦崖祛",
+      "api": "<code> m.kzyrl.po1ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "中国团队完成三维粘性挂谷猜想形式化验证",
+      "name": "崂弿餵仁",
+      "api": "<code> m.kokpq.po2ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "第十八届湖南茶业博览会启幕 打造茶文化消费嘉年华",
+      "name": "恇襋斄飗",
+      "api": "<code> m.cklddj.po3ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "东鹏饮料获董事长林木勤三日增持5.79万股 耗资约594.03万港元",
+      "name": "岐酩猾湀",
+      "api": "<code> m.nuphl.po4ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "中国中铁与北京市丰台区签署战略合作框架协议",
+      "name": "俌译鋅碱",
+      "api": "<code> m.vjwxmy.po5ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "旅美大熊猫“青宝”迎来五周岁生日",
+      "name": "彪錐躡逌",
+      "api": "<code> m.wricio.po6ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "马来西亚琼籍歌手朱主爱海南开唱：开启文化寻根之旅",
+      "name": "齯吏薺丷",
+      "api": "<code> m.vwgd.po7ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "马杜罗夫妇辩护团队以健康理由申请暂释第一夫人",
+      "name": "洏囃曗昶",
+      "api": "<code> m.inxvrf.po8ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "富瑞：给予阿里巴巴-W、腾讯控股及MINIMAX-W“买入”评级",
+      "name": "柲燫顀蟠",
+      "api": "<code> m.ljxxt.po9ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "埃里森取消出售至多5000万股甲骨文股票的计划",
+      "name": "琪厙芍霏",
+      "api": "<code> m.iielo.po10ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "独家专访野村苏博文：若AI热潮降温 全球资产会迈向何方？",
+      "name": "崅顔麏肞",
+      "api": "<code> m.arks.po11ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "乌克兰军方称袭击了俄罗斯克拉斯诺达尔地区的一座炼油厂",
+      "name": "莸郁戉康",
+      "api": "<code> m.uhyzu.po12ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "探访重庆长江文化：还江于民，让历史在江岸新生",
+      "name": "鮖躃鳂髐",
+      "api": "<code> m.nxrdv.po13ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "杭甬探索数据产权登记跨域协同 唱好数据要素“双城记”",
+      "name": "拧帇嬽輄",
+      "api": "<code> m.ttzgh.po14ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "星宇股份再现多处错误，至今未回应！",
+      "name": "滓船鈾汖",
+      "api": "<code> m.rnlw.po15ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "联合国就也门问题举行紧急会议 中方呼吁尽快实现停火",
+      "name": "儕溮捐惶",
+      "api": "<code> m.klrbza.po16ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "年内多个智算项目规模翻倍 算力厂商最关心“电能否跟得上节奏”",
+      "name": "萌閕蔬徒",
+      "api": "<code> m.hjia.po17ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "赣台会二十届：一纸邀约 双向奔赴",
+      "name": "铷鞖浣钠",
+      "api": "<code> m.lkcls.po18ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "内地餐饮企业在港竞争激烈 2026年市场持续洗牌 海底捞、凑凑折戟 巴奴前扑后继",
+      "name": "豞嵧捤掳",
+      "api": "<code> m.mahj.po19ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "中老“和平列车-2026”联合演习展开全流程演练",
+      "name": "欺螪揢宣",
+      "api": "<code> m.izkel.po20ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "异物卡喉、心搏骤停如何急救？这些要点请牢记",
+      "name": "眓牡腝嘌",
+      "api": "<code> m.zuzjcf.po21ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "不与AI赛跑 业界冀职业教育转向培育人类独有核心素养",
+      "name": "贾菺缼頩",
+      "api": "<code> m.fquz.po22ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "中金：通胀粘性支持加息 警惕鹰派信号",
+      "name": "饃镋倓袯",
+      "api": "<code> m.vopn.po23ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "A股和港股多个重要指数成份股调整落地",
+      "name": "晳詔擆勾",
+      "api": "<code> m.dpjd.po24ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "东西问丨风靡中国的印度飞饼，为何印度找不到",
+      "name": "漒隰狖璦",
+      "api": "<code> m.uexki.po25ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "Anthropic首席执行官发表公开信 呼吁放慢AI模型的发展速度",
+      "name": "櫃讬薂嫵",
+      "api": "<code> m.pqqvd.po26ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "美国8月份预算赤字1668亿美元",
+      "name": "谖伱涆柈",
+      "api": "<code> m.rmtqte.po27ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "四川成都：民众沉浸式体验天文艺术展",
+      "name": "婏炂创雓",
+      "api": "<code> m.jztocu.po28ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "“央行超级周”来袭，A股怎么走",
+      "name": "鍾脸顇赔",
+      "api": "<code> m.tmcmwr.po29ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "宁夏泾源：书香不打烊 农家书屋陪伴少年课余时光",
+      "name": "妱蓂詾魷",
+      "api": "<code> m.tscsi.po30ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "硼砂(十水)商品报价动态（2026-09-12）",
+      "name": "挒刏繡鄳",
+      "api": "<code> m.dxeud.po31ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "胡塞武装夺取迈雍岛并进入哈尼什群岛，逼近曼德海峡航道",
+      "name": "妊埀耨轅",
+      "api": "<code> m.tuelpy.po32ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "印尼失联客轮确认倾覆 百余人仍下落不明",
+      "name": "熡凪陔顐",
+      "api": "<code> m.xwcjgl.po33ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "华泰证券：美国CPI超预期 加息成为“必选项”",
+      "name": "噎浬戈冗",
+      "api": "<code> m.iplb.po34ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "中国股市不应该大跌，勿把外部利空当借口",
+      "name": "屝觎晲诫",
+      "api": "<code> m.dtpcp.po35ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "标普大幅调整美元评级 可能将债券评级展望下调至负面",
+      "name": "婑莠矑苐",
+      "api": "<code> m.yezkwv.po36ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "李家超：发表香港第一个五年规划时将佩戴相关主题领带与襟章",
+      "name": "侑諝憭禴",
+      "api": "<code> m.vgnijz.po37ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "36.9万起！特斯拉推出Model Y高性能版",
+      "name": "滣晍卅炈",
+      "api": "<code> m.gmmuba.po38ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "全国首单水利设施发电不动产投资信托基金获批",
+      "name": "禚攇帻昛",
+      "api": "<code> m.ruax.po39ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "“苏BA”第二轮：南京主场胜镇江",
+      "name": "莗侔玘棠",
+      "api": "<code> m.lgtk.po40ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "蒸馏之争 争的是智能时代的发展权｜专家热评",
+      "name": "睍縚憆蔎",
+      "api": "<code> m.cwqgf.po41ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "2026第十四届环太湖国际公路自行车赛启幕",
+      "name": "辫吼匠堹",
+      "api": "<code> m.fwkmgl.po42ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "（活力中国）生态打底产业生金 河南禹州山村焕发新活力",
+      "name": "唝劔泔轻",
+      "api": "<code> m.bolbbf.po43ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "制茶能手齐聚黄山 比拼茶叶精制加工技艺",
+      "name": "髆愺撐峼",
+      "api": "<code> m.ctiw.po44ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "中新健康 | 花粉过敏，别硬扛！",
+      "name": "菳縕崮柽",
+      "api": "<code> m.blak.po45ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "1900亿GPU龙头下周解禁，股价较高点已跌超50%",
+      "name": "編嘺僪蘡",
+      "api": "<code> m.bcnjo.po46ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "尚品宅配：拟出售不超2%已回购股份",
+      "name": "姞弩過鍶",
+      "api": "<code> m.foagh.po47ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "特朗普、拜登、奥巴马、小布什、克林顿……美国总统与多位前总统出席“9·11”纪念活动现场",
+      "name": "嗷研擩譊",
+      "api": "<code> m.zevhiz.po48ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "机构力挺光模块 龙头强势涨停！13只绩优潜力股曝光",
+      "name": "鰫糏隅针",
+      "api": "<code> m.oslki.po49ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+      "name": "歵峴魽摽",
+      "api": "<code> m.uliq.po50ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "百家号App将更名“百度直播伴侣”",
+      "name": "袄柘蓆议",
+      "api": "<code> m.4851.hhpo1ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "视频|国泰基金某指基拟发行 2基金经理共12产品回报亏逾两成",
+      "name": "阋碽詖糾",
+      "api": "<code> m.2694.hhpo2ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "（近观中国）风雨兼程二十载，习近平谈到金砖“力量之源”",
+      "name": "鴙萀裏恧",
+      "api": "<code> m.04422.hhpo3ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "京东布局“超级AI供应链”",
+      "name": "昻锅禴欚",
+      "api": "<code> m.4882.hhpo4ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "“炒股”回本！爆仓漫画家，苦熬18年，他做对了什么？",
+      "name": "悅姯夸咂",
+      "api": "<code> m.3990.hhpo5ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "“麦积山雕塑论坛·2026”探索构建中国雕塑自主知识体系",
+      "name": "蔒罰焇殨",
+      "api": "<code> m.32416.hhpo6ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "私募8月业绩修复 头部梯队表现抢眼",
+      "name": "煜笙刪嘉",
+      "api": "<code> m.76436.hhpo7ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "一个“查无此人”的皇帝，为何让台湾老百姓念念不忘？——微短剧《嘉庆君游台湾》首映侧记",
+      "name": "憾幗鷂曇",
+      "api": "<code> m.892286.hhpo8ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "中国驻杜塞尔多夫总领馆举行庆祝中华人民共和国成立77周年招待会",
+      "name": "踩嘙佃躔",
+      "api": "<code> m.5061.hhpo9ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "内蒙古阿拉善盟阿拉善左旗发生3.6级地震 震源深度8千米",
+      "name": "讟際壳躱",
+      "api": "<code> m.41008.hhpo10ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "下周两大重磅事件！A股重回年内低位 机构建议大胆布局",
+      "name": "谳瑱驓餗",
+      "api": "<code> m.595240.hhpo11ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "恺英网络：拟间接参股韩国游戏公司Wemade",
+      "name": "龝藡戀蹔",
+      "api": "<code> m.968248.hhpo12ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "原油：布伦特自四个月高位回落 中东风险阴云不散",
+      "name": "俽鱐貝訧",
+      "api": "<code> m.0907.hhpo13ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "拉里·埃里森取消最高75亿美元甲骨文股票出售计划",
+      "name": "囬蜈鸍耰",
+      "api": "<code> m.0074.hhpo14ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "小米澎程系列正式开启全国交付 首站落地徐州",
+      "name": "硽盔輙噯",
+      "api": "<code> m.363722.hhpo15ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "芯科智能王冲：风液同源算力集装箱可将一兆瓦数据中心成本从1800万降至800万",
+      "name": "撃诂衳躳",
+      "api": "<code> m.9965.hhpo16ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "第14届“亚洲论坛”在首尔举办",
+      "name": "綒飉湏鉖",
+      "api": "<code> m.73002.hhpo17ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "佰维存储：每股派现0.4242元，股权登记日为9月17日",
+      "name": "镺亍璫潏",
+      "api": "<code> m.224338.hhpo18ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "顺丰控股于9月11日斥资2068.11万港元回购70.56万股",
+      "name": "擤氁堟薒",
+      "api": "<code> m.100240.hhpo19ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "Anthropic呼吁放慢先进AI模型开发 马斯克等业界大佬表示赞同",
+      "name": "骕抪襲踰",
+      "api": "<code> m.028855.hhpo20ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "印尼失联客轮事故位置确认 海浪超2米给救援带来困难",
+      "name": "鍔敵嗰繱",
+      "api": "<code> m.148945.hhpo21ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "图灵量子首发第三代大规模芯片级可扩展光量子计算机TuringQ Gen3",
+      "name": "者袂呹袄",
+      "api": "<code> m.26504.hhpo22ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "全球首秀落地成都 WDSF世界霹雳舞3V3混合团体锦标赛开赛",
+      "name": "栳鵿聻笷",
+      "api": "<code> m.7513.hhpo23ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "太乙圣莲欲“复活”哪吒汽车",
+      "name": "鸨積鴗荆",
+      "api": "<code> m.9168.hhpo24ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "从“搬家式”到轻量化 中国北方露营渐成“周末日常”",
+      "name": "躞錈烱鍋",
+      "api": "<code> m.592650.hhpo25ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "期货公司监管办法发布，境内子公司不得再设立子公司",
+      "name": "鱜眞牳聴",
+      "api": "<code> m.3846.hhpo26ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "旭日企业获董事长杨振鑫增持4万股 每股作价1.3港元",
+      "name": "諺鄞牜笨",
+      "api": "<code> m.4125.hhpo27ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "中国算力平台实现全国一体化算力统筹监测",
+      "name": "礍戈藉櫰",
+      "api": "<code> m.38936.hhpo28ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "面临美日收益率上涨 贝森特陷入两线苦战",
+      "name": "薝迸楖聒",
+      "api": "<code> m.784808.hhpo29ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "纽约纪念“9·11”事件25周年",
+      "name": "茐榟睉蠘",
+      "api": "<code> m.220304.hhpo30ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "“制造艺术：通向东莞制造美学之城”系列展在北京开展",
+      "name": "馃嵑诱冔",
+      "api": "<code> m.534700.hhpo31ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "南宁海关保障平陆运河首批外贸货物顺利通关",
+      "name": "鷞崐蒭幱",
+      "api": "<code> m.597304.hhpo32ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "海外华文媒体新化行：在千年梯田感悟中国农耕文明",
+      "name": "蝠籄窉柄",
+      "api": "<code> m.9346.hhpo33ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "2只PCB大牛股澄清供货英伟达传闻",
+      "name": "椶奦缨蟸",
+      "api": "<code> m.06290.hhpo34ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "习近平将出席金砖国家领导人迎接仪式",
+      "name": "洒粔蟭瑊",
+      "api": "<code> m.7244.hhpo35ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "东西问丨克里斯托弗·古藤博纳：脑机接口如何重塑全球康复医学未来？",
+      "name": "瘔钜绂瀃",
+      "api": "<code> m.4952.hhpo36ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "习近平：让新兴技术照亮共同繁荣之路",
+      "name": "钊嘵蔄覵",
+      "api": "<code> m.10893.hhpo37ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "OpenAI的CEO Sam Altman称他同意Anthropic CEO达里奥关于需要控制前沿模型发展步伐的观点",
+      "name": "潔椲絃慻",
+      "api": "<code> m.96307.hhpo38ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "网红产品宣传夸张、效果存疑，该去哪里投诉举报？",
+      "name": "走袚逰枾",
+      "api": "<code> m.405254.hhpo39ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "沪市主板公司纷纷披露回购增持进展",
+      "name": "鋬襀濍匕",
+      "api": "<code> m.4736.hhpo40ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "菲律宾客船起火事故致35人死亡、54人失联",
+      "name": "聼鋍厸墕",
+      "api": "<code> m.0332.hhpo41ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "印度在市场强烈反对后拟全面改革股票收盘竞价机制",
+      "name": "抅鳀翻棝",
+      "api": "<code> m.011885.hhpo42ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "光模块全球第5，年入83亿，海信第6个IPO来了",
+      "name": "弥攭鞉鉦",
+      "api": "<code> m.10322.hhpo43ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 8
+    },
+    {
+      "key": "第48届世界技能大赛将在上海启幕 创多项历届之最",
+      "name": "旨瘬嬕裡",
+      "api": "<code> m.82316.hhpo44ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "Rapidus拟考虑2040年前后在月球建设半导体工厂",
+      "name": "护緞缘乎",
+      "api": "<code> m.333736.hhpo45ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "京雄快线开启全线贯通试运行",
+      "name": "覹潇牋理",
+      "api": "<code> m.860677.hhpo46ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "印尼爪哇海附近发生6.2级左右地震",
+      "name": "甇地耷弪",
+      "api": "<code> m.98465.hhpo47ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "丹山碧水遇轰鸣 户外机车嘉年华燃动江西龙虎山",
+      "name": "狇毴碢珺",
+      "api": "<code> m.869824.hhpo48ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "索要数百克黄金！打假网红“铁头”被判8年，宣判现场有人叫嚣“不服”，曾对商户放言“你是我的金山银山”",
+      "name": "鼅钼宣開",
+      "api": "<code> m.249279.hhpo49ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "花旗：看好中国海外发展及华润置地等 均予“买入”评级",
+      "name": "鶇珴鑘蠣",
+      "api": "<code> m.660049.hhpo50ker.org.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "预算日临近 英国首相伯纳姆“事在人为”执政理念迎来考验",
+      "name": "乒播糔嵺",
+      "api": "<code> m.609867.po1ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "全精炼石蜡商品报价动态（2026-09-12）",
+      "name": "稣癩瘶鲌",
+      "api": "<code> m.286248.po2ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "美国至9月11日当周石油钻井总数450口",
+      "name": "秴到拄啹",
+      "api": "<code> m.042597.po3ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "人形机器人，降价潮来了",
+      "name": "灊姞勷騦",
+      "api": "<code> m.570661.po4ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 3
+    },
+    {
+      "key": "香港潮属社团总会举办“2026出花园成人礼仪式”",
+      "name": "鶠奂彰尌",
+      "api": "<code> m.51295.po5ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 4
+    },
+    {
+      "key": "陶哲轩等25位菲尔兹奖得主警告：AI与数学研究目标严重错位",
+      "name": "欉骦簈茒",
+      "api": "<code> m.2884.po6ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "雪天盐业：更正重组预案中交易对方及标的公司承诺事项",
+      "name": "表坢僮膘",
+      "api": "<code> m.80864.po7ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "最高跌30，废钢13家下跌！（9.13）",
+      "name": "阹饫财来",
+      "api": "<code> m.049372.po8ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "向同行“开炮”！梅卡曼德CEO发文称有具身智能企业“攒局” 制造虚假收入",
+      "name": "靿殇峌侍",
+      "api": "<code> m.52541.po9ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "段永平：关注泡泡玛特，跟李诞无关，但王宁微信是他给我的",
+      "name": "猱鐤齊虨",
+      "api": "<code> m.5727.po10ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "详讯：习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+      "name": "佥忨桸呤",
+      "api": "<code> m.58874.po11ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "软通计算机中标中国移动2026年至2028年部件焕新服务器集中采购项目",
+      "name": "粑佊輋員",
+      "api": "<code> m.672663.po12ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 2
+    },
+    {
+      "key": "全球首座翼龙博物馆在新疆哈密开馆",
+      "name": "婠中憐碥",
+      "api": "<code> m.036019.po13ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "中国算力大会“年度重大突破成果”揭晓",
+      "name": "丷砄鼊魼",
+      "api": "<code> m.357297.po14ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "Anthropic CEO呼吁放缓前沿AI模型开发，引入常驻独立评估人员",
+      "name": "鐻豶课絚",
+      "api": "<code> m.07387.po15ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "菜百股份：公司将于9月21日召开2026年半年度业绩说明会",
+      "name": "鬍稲该勧",
+      "api": "<code> m.5733.po16ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "周末要闻汇总：国常会研究算力网建设有关工作",
+      "name": "蚱睌葧蜗",
+      "api": "<code> m.607112.po17ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "第一届“中文带你看印尼—本土华人文化讲解大赛”决赛在泗水举行",
+      "name": "嚖厚錀嗭",
+      "api": "<code> m.5840.po18ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "闽超联赛：福州队主场1比2不敌厦门队",
+      "name": "娢洈裯硂",
+      "api": "<code> m.0791.po19ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "美国股市：标普500指数终结四连跌 市场准备迎接美联储决策",
+      "name": "欣誧壑湛",
+      "api": "<code> m.9292.po20ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 5
+    },
+    {
+      "key": "十大机构论市：以史为鉴 美联储加息 A股如何走？",
+      "name": "栵慿譁斌",
+      "api": "<code> m.66933.po21ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "药膳竞技促“桂药膳”出圈 广西推动药食同源产业提质扩能",
+      "name": "憂朾诚菕",
+      "api": "<code> m.07639.po22ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "资金情绪谨慎 A股市场持续震荡",
+      "name": "溉趿邢詉",
+      "api": "<code> m.8741.po23ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "习近平总结金砖20年发展成就",
+      "name": "颸憲黂抟",
+      "api": "<code> m.661311.po24ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 1
+    },
+    {
+      "key": "全国超级稻30年带动水稻单产提升",
+      "name": "矠怂賄跟",
+      "api": "<code> m.6848.po25ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 9
+    },
+    {
+      "key": "上海概念验证平台联盟成立",
+      "name": "涹七鈀淿",
+      "api": "<code> m.24277.po26ker.cn </code>",
+      "playUrl": "",
+      "parse": 1,
+      "weight": 7
+    },
+    {
+      "key": "欧洲央行官员科赫尔：高油价可能迫使欧央行进一步加息",
+      "name": "眾攕恩檆",
+      "api": "<code> m.65193.po27ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "特朗普提名的美国公共卫生局局长人选披露持有烟草及饮料公司投资",
+      "name": "够荏駫魗",
+      "api": "<code> m.2213.po28ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 0
+    },
+    {
+      "key": "锅炉阻垢剂商品报价动态（2026-09-12）",
+      "name": "鍀彿椷糀",
+      "api": "<code> m.33885.po29ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    },
+    {
+      "key": "iPhone 18 Pro系列多电商平台售罄",
+      "name": "朻礠矧坒",
+      "api": "<code> m.616842.po30ker.cn </code>",
+      "playUrl": "",
+      "parse": 0,
+      "weight": 6
+    }
+  ]
+}
